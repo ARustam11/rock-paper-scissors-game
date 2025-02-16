@@ -1,6 +1,6 @@
 // Lab 2 (Rock, Paper, Scissors game)
-// Rustam Ainetdinov
-// Leonardo Figueiredo
+// Rustam Ainetdinov Student ID: 200540293
+// Leonardo Figueiredo Pinheiro Silva Student ID: 200577759
 
 const prompt = require('prompt-sync')();
 
