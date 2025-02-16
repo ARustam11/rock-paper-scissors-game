@@ -1,3 +1,7 @@
+// Lab 2 (Rock, Paper, Scissors game)
+// Rustam Ainetdinov
+// Leonardo Figueiredo
+
 const prompt = require('prompt-sync')();
 
 // Function to get user's choice
